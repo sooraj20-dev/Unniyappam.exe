@@ -59,7 +59,7 @@ export function GameHUD({
           <span className="badge-emoji">🫓</span>
           <div className="badge-text-col">
             <span className="badge-name">ഉണ്ണിയപ്പം 3D</span>
-            <span className="badge-sub">Unniyappam 3D</span>
+            <span className="badge-sub">unniyappam.exe</span>
           </div>
         </div>
 

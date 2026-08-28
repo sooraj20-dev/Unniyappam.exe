@@ -23,7 +23,7 @@ export function IntroModal({ onStart }: IntroModalProps) {
         <div className="title-section">
           <div className="hero-appam-icon">🫓✨</div>
           <h1 className="game-title">ഉണ്ണിയപ്പം 3D</h1>
-          <div className="malayalam-sub">Unniyappam 3D — നാടൻ തനിമയോടെ!</div>
+          <div className="malayalam-sub">unniyappam.exe — നാടൻ തനിമയോടെ!</div>
         </div>
 
         <p className="intro-text">
